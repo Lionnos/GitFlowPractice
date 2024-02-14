@@ -8,12 +8,12 @@
 
             // Ejemplo de uso de bubble sort
             int[] arr = { 64, 34, 25, 12, 22, 11, 90 };
-            Console.WriteLine("Array sin ordenar:");
+            Console.WriteLine("Lista sin ordenar:");
             PrintArray(arr);
 
             BubbleSort(arr);
 
-            Console.WriteLine("Array ordenado:");
+            Console.WriteLine("Lista ordenada:");
             PrintArray(arr);
         }
 
