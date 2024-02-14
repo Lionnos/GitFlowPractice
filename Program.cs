@@ -6,7 +6,6 @@
         {
             Console.WriteLine("GIT FLOW");
 
-            // Ejemplo de uso de bubble sort
             int[] arr = { 64, 34, 25, 12, 22, 11, 90 };
             Console.WriteLine("Lista sin ordenar:");
             PrintArray(arr);
@@ -14,7 +13,6 @@
             BubbleSort(arr);
 
             Console.WriteLine("Lista ordenada:");
-            PrintArray(arr);
         }
 
         static void BubbleSort(int[] arr)
