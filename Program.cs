@@ -45,5 +45,14 @@
             }
             Console.WriteLine();
         }
+        
+        static void PrintArray(int[] arr, int a, string b)
+        {
+            foreach (int num in arr)
+            {
+                Console.Write(num + " ");
+            }
+            Console.WriteLine();
+        }
     }
 }
