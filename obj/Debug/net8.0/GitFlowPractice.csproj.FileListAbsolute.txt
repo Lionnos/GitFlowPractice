@@ -1,0 +1,15 @@
+D:\Personal-Projects\GitFlowPractice\bin\Debug\net8.0\GitFlowPractice.exe
+D:\Personal-Projects\GitFlowPractice\bin\Debug\net8.0\GitFlowPractice.deps.json
+D:\Personal-Projects\GitFlowPractice\bin\Debug\net8.0\GitFlowPractice.runtimeconfig.json
+D:\Personal-Projects\GitFlowPractice\bin\Debug\net8.0\GitFlowPractice.dll
+D:\Personal-Projects\GitFlowPractice\bin\Debug\net8.0\GitFlowPractice.pdb
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.AssemblyInfoInputs.cache
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.AssemblyInfo.cs
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.csproj.CoreCompileInputs.cache
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.sourcelink.json
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.dll
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\refint\GitFlowPractice.dll
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.pdb
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\GitFlowPractice.genruntimeconfig.cache
+D:\Personal-Projects\GitFlowPractice\obj\Debug\net8.0\ref\GitFlowPractice.dll
